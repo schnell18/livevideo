@@ -1,0 +1,13 @@
+*.pid
+*.log
+*.swo
+*.swp
+*.jar
+*.war
+*.ear
+*.tar
+*.tgz
+*.bz2
+*.7z
+*.gz
+*.o
